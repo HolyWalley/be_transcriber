@@ -1,0 +1,4 @@
+flask
+nemo_toolkit[all]==1.22.0
+soundfile
+requests
